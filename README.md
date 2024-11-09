@@ -1,4 +1,4 @@
-# Assignment 3: Advanced Shader and Planetary Animation
+# Solarsystem
 
 In this assignment, you will expand your understanding of Three.js by working with custom shaders and creating a dynamic planetary system. You will apply advanced techniques for handling lighting and materials using both **Gouraud** and **Phong** shading models. The animation will involve planets with varying properties and interactive user input to manipulate camera views and object behavior.
 
